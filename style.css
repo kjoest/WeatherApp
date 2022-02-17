@@ -46,12 +46,12 @@ button {
     transition: 0.2s ease-in-out;
 }
 
-@media screen and (max-width: 580px) {
+/*@media screen and (max-width: 580px) {
     button {
         justify-content: center;
         padding-right: 5px;
     }
-}
+}*/
 
 button:hover {
     background: #7c7c7c6b;
