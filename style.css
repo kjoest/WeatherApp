@@ -11,7 +11,7 @@ body {
     background-size: 100%;
 }
 
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 420px) {
     body {
          height: 70vh;
          background-size: 320%;
@@ -48,6 +48,18 @@ button {
     color: white;
     cursor: pointer;
     transition: 0.2s ease-in-out;
+}
+
+@media screen and (max-width: 420px) {
+    button {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .icon {
+        justify-content: center;
+        align-items: center;
+    }
 }
 
 button:hover {
