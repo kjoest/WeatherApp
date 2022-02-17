@@ -13,8 +13,8 @@ body {
 @media screen and (max-width: 580px) {
     body {
         background-image: url('https://source.unsplash.com/1600x900/?nature,landscape');
-        background-size: 50%;
-        font-size: 75%;
+        background-size: 75%;
+        font-size: 80%;
     }
 }
 
