@@ -13,7 +13,10 @@ body {
 
 @media screen and (max-width: 580px) {
     body {
-         background-size: 400%;
+         background-size: 100%;
+         display: flex;
+         justify-content: center;
+         align-items: center;
     }
 }
 
