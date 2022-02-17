@@ -49,6 +49,7 @@ button {
 @media screen and (max-width: 580px) {
     button {
         justify-content: center;
+        padding-right: 5px;
     }
 }
 
