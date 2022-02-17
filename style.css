@@ -18,7 +18,6 @@ body {
          display: flex;
          justify-content: center;
          align-items: center;
-         background-color: #222
     }
 }
 
@@ -49,12 +48,6 @@ button {
     color: white;
     cursor: pointer;
     transition: 0.2s ease-in-out;
-}
-
-@media screen and (max-width: 580px) {
-    .icon {
-        margin-right: 5px;
-    }
 }
 
 button:hover {
