@@ -14,7 +14,7 @@ body {
 @media screen and (max-width: 580px) {
     body {
          height: 70vh;
-         background-size: 300%;
+         background-size: 310%;
          display: flex;
          justify-content: center;
          align-items: center;
